@@ -60,6 +60,16 @@ The CAD models contain the complete design and are the best starting point for a
 
 Videos on the [masdrive project page](https://masdrive.ch/myprojects/projects/ac-table/) show the rotary table in practical use. The prototype was built to explore and further develop the possibilities of multi-axis machining on a DIY CNC platform. The second, longer recording shows a complete machining run with both rotary axes.
 
+## Complete bill of materials
+
+This is the complete structured bill of materials of the AC/BC rotary table — every assembly and every single part, exported directly from the CAD model, with all costs. The structure levels can be expanded and collapsed: a click on an assembly shows its parts; the cost of an assembly is always the sum of its parts. The total price of the table is at the very bottom.
+
+The same BOM is also available as an Excel file with grouped rows to expand and collapse.
+
+- **[Interactive view on masdrive](https://masdrive.ch/myprojects/projects/ac-table/#stueckliste)**
+- [Markdown view in this repo](../bom/ac-table-structured-bom.md)
+- [Structured BOM as Excel (with costs and grouping)](../bom/ABC%20Rotary%20Table%20-%20structured%20BOM%20with%20costs.xlsx) (original: [ac-tisch-stueckliste-mehrstufig.xlsx](https://masdrive.ch/myprojects/assets/media/2026/10/ac-tisch-stueckliste-mehrstufig.xlsx))
+
 ## Notes for builders
 
 Every CNC machine is different. Motorisation, gear ratios, drivers, controller parameters, limit switches and homing may need to be adapted to your own machine. Mechanical alignment and backlash adjustment also have a big influence on the final machining result.

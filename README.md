@@ -11,11 +11,20 @@ It was built as an extension of my self-built CNC router **MyCNC** – see [gith
 > **⚠️ Safety and liability – please read first.**
 > This is a hobby project, published as-is for inspiration and personal experiments. It is **not** a tested or certified product. Building and operating a CNC machine and a multi-axis rotary table involves mains voltage, rotating spindles and strong motors that can cause serious injury, fire or damage. 5-axis motion adds a high risk of collisions. **You build and use anything from this repository entirely at your own risk.** There is **no warranty and no liability**. See [DISCLAIMER.md](DISCLAIMER.md).
 
+## 📋 Full structured BOM with costs
+
+Every assembly and every single part of the AC rotary table, exported directly from the CAD model, with costs (total as stated in the BOM: **$147.40**).
+
+- **[Interactive view on masdrive](https://masdrive.ch/myprojects/projects/ac-table/#stueckliste)** — expand and collapse the structure, with thumbnails
+- **[Markdown view in this repo](bom/ac-table-structured-bom.md)** — collapsible structure, readable directly on GitHub
+- **[Excel download](bom/ABC%20Rotary%20Table%20-%20structured%20BOM%20with%20costs.xlsx)** — grouped rows with costs (original: [ac-tisch-stueckliste-mehrstufig.xlsx](https://masdrive.ch/myprojects/assets/media/2026/10/ac-tisch-stueckliste-mehrstufig.xlsx))
+
 ## Contents
 
 | Folder / file | Content |
 |---|---|
 | [docs/](docs/README.md) | Project documentation (translated from masdrive.ch) and suggested GitHub topics |
+| [bom/](bom/README.md) | Structured bill of materials with costs (Excel and markdown view) |
 | [cad/](cad/README.md) | CAD data: SolidWorks 2022 (native), Fusion 360 (.f3d) and STEP export |
 | [images/](images/) | Renderings |
 | [DISCLAIMER.md](DISCLAIMER.md) | Safety notes, no warranty, no liability |
