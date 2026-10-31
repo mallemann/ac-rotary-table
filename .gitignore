@@ -1,0 +1,30 @@
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+._*
+
+# Editors / temp
+*.bak
+*.tmp
+*.swp
+*~
+~$*
+.vscode/
+.idea/
+
+# CAD temp and backup files
+*.SLDPRT.bak
+*.SLDASM.bak
+~*.SLDPRT
+~*.SLDASM
+~*.SLDDRW
+*.dwl
+*.dwl2
+*.f3d.bak
+*.lck
+
+# Archives
+*.zip
+*.7z
